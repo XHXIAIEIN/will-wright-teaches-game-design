@@ -5,8 +5,7 @@
 https://www.masterclass.com/classes/will-wright-teaches-game-design-and-theory/chapters/exploring-player-psychology/
   
 ---
-
-
+  
 WILL WRIGHT: More than anything else, I've found the psychology to be the really tricky, challenging part of game design. The technology is advancing every year. What we can do on modern computers makes me as a designer feel almost unlimited. You can do amazing things on these electronics. 
 
 Player psychology though, human brains are not advancing. They're the same as they have been a hundred years ago. We have to learn how it works. What are the inner workings of that computer and how can we exploit it and use it to our advantage? 
@@ -21,6 +20,7 @@ The vary base core of The Sims had to do with feeding the motives of The Sims hu
 The game designer is really kind of playing with the player's psychology. By giving them certain freedoms, certain limitations, certain goals states, you're trying to get them into a certain motivation within this little world that you've crafted and make them want to do things or want to avoid things happening. You basically want to set up this structure in their head that they're motivated to do this and avoid that. But you want to have an environment where they start feeling strong motivations for their actions. And then, now it's up to them to start testing their model against your model. They start building that mental model against your game. 
 
 I think it was PT Barnum that said something like, no entrepreneur ever went broke overestimating the intelligence of the American public. Kind of my version of that is, no game designer ever went wrong by overestimating the narcissism of their players. And so the more it is about the player, the more the player is celebrated, the more the player is the center of that universe, generally, the more they like it. 
+  
   
 ## Build a Mental Model in Your Player's Head
 
