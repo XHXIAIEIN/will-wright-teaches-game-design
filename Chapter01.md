@@ -1,11 +1,11 @@
 # Chapter 01: The Fundamentals of Game Design
-
+  
 > Meet your new instructor: Will Wright, visionary game designer behind The Sims. In your first lesson, you’ll learn the core tenets of Will’s multidisciplinary game design process. 
   
 https://www.masterclass.com/classes/will-wright-teaches-game-design-and-theory/chapters/the-fundamentals-of-game-design/
   
----
   
+---
 WILL WRIGHT: 
 
 All of us are set in our own little world view. We think we see the big picture, but we all see a little slice of the world surrounding the lens. 
@@ -37,8 +37,8 @@ And I think by going down to that fundamental level, it's going to give you a lo
 Basically, how to amplify your own internal creativity in ways that are coming from a fundamental level rather than just the feature level. 
 
 I'm Will Wright, and this is a simulation-- a simulation-- a simulation-- of my MasterClass. 
-
-
+  
+  
 ---
 ## What Are Games?
 
@@ -61,8 +61,8 @@ So it's really-- games are the up and coming thing that in some sense is breakin
 Games borrow from so many other different design fields, you know. Not just entertainment, you know, storytelling, things like that, but also things like architecture, product design, fine art, mathematics, cognitive psychology. 
 
 Games incorporate all these different design fields in an interesting way. And the more you can expose yourself to these different design fields, the better a designer you'll be. 
-
-
+  
+  
 ---
 ## Take a Multidisciplinary Approach
 
@@ -79,8 +79,8 @@ But then also, just do it. Try it, you know. You can do something as simple as d
 And the more you're doing that, just always inventing little games, you know, even if it's with toothpicks on a tabletop, you're going to learn a lot that way. And that's much better than just, you know, sitting in your head for two years coming up with your master design, and then one day trying to realize it and finding out that it's too complex to realize. 
 
 You'll be much better off doing continual, ubiquitous, everyday kind of local game design. 
-
-
+  
+  
 ---
 ## Explore Branching Paths of Desicions 
 
@@ -105,8 +105,7 @@ Basically, as you're exploring this tree, there are a lot of different methods y
 So we're really trying to efficiently prune the branches and continue down the right path toward our final design. You know, as I said, you don't know exactly where you're going to end up on this tree, but the designer also needs to kind of know when you've gotten there. 
 
 A lot of times, I've seen, you know, game designs, or even other designs where somebody went a little bit too far, you know. They, you know-- Some movies, you know, I think had a perfect ending, went a little bit too far. And the designer needs to kind of know you've hit the sweet spot. 
-
-
+  
 ---
 ## Embrace Constraint
 
@@ -115,9 +114,9 @@ One of my design heroes is Charles Eames. Charles and Ray Eames were a design te
 And, you know, that constraint is really going to become your foundation. It's going to be, okay, here was my starting point, and within that constraint I was able to do this. The constraint could be, you know, the technology in front of you, how fast the processor, the graphics. But the constraint can also be, you know, what does my player know? What kind of skills do they have? Where does their imagination take them? Those are constraints just as well. 
 
 And the more you understand your constraints, you know, the more you can now kind of use that as your starting point to go off and do something really cool that nobody else has done against those same constraints. 
+  
 
-
----
+--
 ## Design Beyond Zero-Sum Games
  
 In a competitive game, you know, usually with two players, there's a concept of a zero sum game, which is that if a player wins, he gets, you know, a positive 1. The losing player gets a negative 1. If it's a tie, they both get 0. So basically, the sum of the two players is always 0. You know, either I won, you lost, you know, and it sums to 0, or it was a tie, sums to 0. That's a zero sum game. 
@@ -133,9 +132,9 @@ So the player is actually the one building the rule set and the structure, and t
 Other players don't even really try to achieve anything thing at all, but try to use it for creative storytelling or creativity. A lot of people were playing "Spore," not really trying to get through all the levels, but trying to just make really cool things within the game that they would then go out and share with other players. So for them, the win state was more social--kind of make something really cool in this game, maybe even just tell a story that other people really like. 
  
 And to me, that's the win state. So, you know, I think games have the opportunity to go, you know, way beyond just this kind of zero sum approach. 
-
-
--
+  
+  
+---
 ## Expand Player Creativity
 
 You can take almost any technology that we have and view it as an extension of the human body. 
@@ -159,3 +158,5 @@ And so they really felt, you know, like that was them. When you get to the space
 And we were hoping to get, you know, maybe 100,000 of these creatures, you know, in the first months, you know, after we'd uploaded the creature editor. Instead, it was so popular that we got a million in the first week. In fact, we passed, I think, five or six million in the first month, which is more than the number of species on Earth. So it was, you know, kind of extraordinary how much players embraced that. 
 
 Basically, we were turning the average player into a Pixar artist. They were able to create, you know, a brand new character out of their imagination and have it come to life. And so I think that's one of the examples of the computer giving creative leverage--a creative amplifier. And a lot of people are using computers for different creative fields, but same thing--it's a creative amplifier for everything they do. 
+  
+  
