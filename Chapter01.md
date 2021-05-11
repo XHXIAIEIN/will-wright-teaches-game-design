@@ -1,10 +1,11 @@
 # Chapter 01: The Fundamentals of Game Design
-https://www.masterclass.com/classes/will-wright-teaches-game-design-and-theory/chapters/the-fundamentals-of-game-design/
 
 > Meet your new instructor: Will Wright, visionary game designer behind The Sims. In your first lesson, you’ll learn the core tenets of Will’s multidisciplinary game design process. 
-
+  
+https://www.masterclass.com/classes/will-wright-teaches-game-design-and-theory/chapters/the-fundamentals-of-game-design/
+  
 ---
- 
+  
 WILL WRIGHT: 
 
 All of us are set in our own little world view. We think we see the big picture, but we all see a little slice of the world surrounding the lens. 
