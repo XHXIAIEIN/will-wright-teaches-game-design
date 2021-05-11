@@ -101,4 +101,3 @@ But in my mind, even at that point, I was thinking okay, this is a game that may
 After that, I started learning to trust my instincts, that if I really find this cool for some reason or I'm gravitating toward that, just trust that we can find a way to bring other people and they'll enjoy it as well. It's very hard, as a designer, for me to design for somebody else. 
 
 This is how that person thinks, this is what they want, this is what they believe.  It's easy to do for myself and then figure out why am I enjoying this, why am I motivated? And what about other people's thought process will let them see this and enjoy it and experience it the same way I do? 
-
