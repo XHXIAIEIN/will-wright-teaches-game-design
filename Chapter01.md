@@ -4,8 +4,8 @@
   
 https://www.masterclass.com/classes/will-wright-teaches-game-design-and-theory/chapters/the-fundamentals-of-game-design/
   
-  
 ---
+
 WILL WRIGHT: 
 
 All of us are set in our own little world view. We think we see the big picture, but we all see a little slice of the world surrounding the lens. 
@@ -39,7 +39,6 @@ Basically, how to amplify your own internal creativity in ways that are coming f
 I'm Will Wright, and this is a simulation-- a simulation-- a simulation-- of my MasterClass. 
   
   
----
 ## What Are Games?
 
 So you're probably watching this because you have an interest in games. But what are games?
@@ -63,7 +62,6 @@ Games borrow from so many other different design fields, you know. Not just ente
 Games incorporate all these different design fields in an interesting way. And the more you can expose yourself to these different design fields, the better a designer you'll be. 
   
   
----
 ## Take a Multidisciplinary Approach
 
 I think game design is probably one of the most challenging design fields there is. And I think to be a good game designer, you first and foremost have to be a good designer. 
@@ -81,7 +79,6 @@ And the more you're doing that, just always inventing little games, you know, ev
 You'll be much better off doing continual, ubiquitous, everyday kind of local game design. 
   
   
----
 ## Explore Branching Paths of Desicions 
 
 Any designer, basically, when they're designing something, has to look at a number of factors. You know, basically you're trying to balance all these things against each other. 
@@ -106,7 +103,7 @@ So we're really trying to efficiently prune the branches and continue down the r
 
 A lot of times, I've seen, you know, game designs, or even other designs where somebody went a little bit too far, you know. They, you know-- Some movies, you know, I think had a perfect ending, went a little bit too far. And the designer needs to kind of know you've hit the sweet spot. 
   
----
+  
 ## Embrace Constraint
 
 One of my design heroes is Charles Eames. Charles and Ray Eames were a design team, husband and wife. And he had a great quote, which was simply that "design is constraint." You know, design really is how do you, you know, work around constraint.  And without constraint, there's no design, you know, it's just pure imagination. So, you know, to be a good designer, you have to kind of embrace that constraint and say, okay, within this constraint, what can I do that's really cool?
@@ -116,7 +113,6 @@ And, you know, that constraint is really going to become your foundation. It's g
 And the more you understand your constraints, you know, the more you can now kind of use that as your starting point to go off and do something really cool that nobody else has done against those same constraints. 
   
 
---
 ## Design Beyond Zero-Sum Games
  
 In a competitive game, you know, usually with two players, there's a concept of a zero sum game, which is that if a player wins, he gets, you know, a positive 1. The losing player gets a negative 1. If it's a tie, they both get 0. So basically, the sum of the two players is always 0. You know, either I won, you lost, you know, and it sums to 0, or it was a tie, sums to 0. That's a zero sum game. 
@@ -134,7 +130,6 @@ Other players don't even really try to achieve anything thing at all, but try to
 And to me, that's the win state. So, you know, I think games have the opportunity to go, you know, way beyond just this kind of zero sum approach. 
   
   
----
 ## Expand Player Creativity
 
 You can take almost any technology that we have and view it as an extension of the human body. 
