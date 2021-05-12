@@ -132,6 +132,3 @@ What’s next? Will speculates on the future and advises game designers to stay 
 
 Will ends his class encouraging you to use your new toolset, outlook, and approach to create something innovative and surprising.
 
-
-## Class Trailer
-
